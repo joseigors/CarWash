@@ -1,0 +1,2 @@
+C:\Users\user\source\repos\CarWash\CarWash\obj\Debug\CarWash.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\CarWash\CarWash\obj\Debug\CarWash.csproj.CoreCompileInputs.cache
